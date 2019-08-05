@@ -45,7 +45,7 @@ source activate phdata-env
 python step2-streaming-processor.py --host 127.0.0.1:9092 --topic logs
 ```
 
-## QA
+### 2.5 QA
 
 Open a new terminal and run the following commands
 
