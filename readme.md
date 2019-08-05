@@ -9,9 +9,8 @@ A Log Analytics demo based on Spark Structured Streaming + Kafka
 ### 2.1 Setup Conda env
 
 ```bash
-conda create -y -n phdata-env python=3.6 ipykernel
+conda create -y -n phdata-env python=3.6
 source activate phdata-env
-pip install apache-log-parser
 pip install kafka-python
 pip install pyspark
 pip install pandas
