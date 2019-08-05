@@ -1,7 +1,7 @@
-# Spark structured streaming Logs analysis
+# Spark Log Analytics
 
 ## 1. Overview
-An logs analysis demo based on Spark Structured Streaming + Kafka
+A Log Analytics demo based on Spark Structured Streaming + Kafka
 
 
 ## 2. Get started
