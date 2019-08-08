@@ -31,6 +31,7 @@ Open a terminal and run the following commands (please unarchive `apache-access-
 
 ```bash
 source activate yz_spark_kafka_demo
+gunzip apache-access-log.txt.gz
 python step1-kafka-producer.py -i ./apache-access-log.txt --host 127.0.0.1:9092 --topic logs
 ```
 
